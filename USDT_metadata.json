@@ -1,0 +1,8 @@
+{
+  "name": "USDT",
+  "symbol": "Tether-USD",
+  "description": "Tether-USD",
+  "extensions": {},
+  "tags": ["USDT, Stable"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/USDT/40097798bd825bfd7822cc19dd362026f9da09a0/USDT_logo.svg"
+}
