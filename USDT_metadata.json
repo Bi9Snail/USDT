@@ -1,6 +1,6 @@
 {
-  "name": "USDT",
-  "symbol": "Tether-USD",
+  "name": "Tether-USD",
+  "symbol": "USDT",
   "description": "Tether-USD",
   "extensions": {},
   "tags": ["USDT, Stable"],
